@@ -15,7 +15,7 @@ includes:
 search: true
 ---
 
-# Introduction method
+# Introduction
 
 Welcome to the Xpress Bill Pay API!
 

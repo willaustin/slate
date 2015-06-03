@@ -1,3 +1,16 @@
+# How to get set up
+
+1. Clone this repo and `cd` into project root
+2. Install [ruby](http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.2-x64.exe)
+2. Install _bundler_ with command `gem install bundler`
+3. Install dependencies `bundle install`
+4. Start bundler server `bundle exec middleman server`
+5. Go to [http://localhost:4567](http://localhost:4567)
+6. Edit `/source/index.md`
+7. ???
+8. Profit!!!
+
+
 Slate
 ========
 
